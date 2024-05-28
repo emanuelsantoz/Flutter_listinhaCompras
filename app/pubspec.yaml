@@ -14,8 +14,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-
-
   cupertino_icons: ^1.0.6
   uno: ^1.1.9
   result_dart: ^1.1.1

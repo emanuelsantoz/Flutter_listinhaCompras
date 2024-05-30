@@ -9,8 +9,8 @@ final lightTheme = ThemeData(
     backgroundColor: _lightColorSheme.primaryContainer,
   ),
   floatingActionButtonTheme: FloatingActionButtonThemeData(
-      backgroundColor: _darkColorScheme.primaryContainer,
-      foregroundColor: Colors.white),
+      backgroundColor: _lightColorSheme.primary,
+      foregroundColor: _lightColorSheme.onPrimary),
   segmentedButtonTheme: _segmentedButtonTheme,
 );
 
